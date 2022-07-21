@@ -107,7 +107,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] hover:rounded-md duration-300 instagram">
           <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="https://github.com/Muh-Hamza-99"
+              href="https://www.instagram.com/fullstack_tabla/"
             >
               Instagram <FaInstagram size={30} />
             </a>
