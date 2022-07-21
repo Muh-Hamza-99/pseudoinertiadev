@@ -29,7 +29,7 @@ const Work = () => {
                 <p className="text-xs px-4">{repo.description.substring(0, 150) + "..."}</p>
                 <div className="opacity-0 group-hover:opacity-100 px-4 py-3">
                   <div className="pt-4 text-center flex">
-                    <a href={repo.url}>
+                    <a href={repo.html_url}>
                       <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-md">
                         Code
                       </button>
